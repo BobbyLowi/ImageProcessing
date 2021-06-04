@@ -14,9 +14,6 @@ untuk menjalankan program ini, jalankan perintah berikut
 $ python main.py
 ```
 
-# Detail
-untuk detail bagaimana membuat aplikasi ini, saya dibantu dengan video tutorial di link [berikut](https://www.youtube.com/playlist?list=PLBDmyAHXKmoT4cuMCapfr6jrhUpIa0lbE)
-
 # Screenshot
 ![box](https://github.com/share424/Tebak-Gambar/raw/master/screenshot/box.png)
 ![circle](https://github.com/share424/Tebak-Gambar/raw/master/screenshot/circle.png)
